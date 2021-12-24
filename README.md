@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Sashanalytics
-- 👀 I’m interested in improving my coding skills for a career switch.
-- 🌱 I’m currently learning data analytics and beginning my journey here.
-- 💞️ I’m looking to collaborate on analysis projects, any topic is fine for now, weather, sports and of course business.
+-Hi, I’m Sean.
+-I’m interested in data science and analytics and will use this website to show some of my work.
+-I have a background in Physics and education, as such using information effectively has been imperative to my daily life for over a decade now.
+-I thoroughly enjoy the challenge working with big data has given me and look forward to sharing more of my projects with you.
+-Feel free to share your questions, opinions, and comments. 
+-Enjoy!
 - 📫 Email me: sanderson7@hotmail.com
 
 <!---
